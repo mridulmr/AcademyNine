@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Academy Nine</string>
+    <string name="select_date">SELECT DATE</string>
+    <string name="select_time">SELECT TIME</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+</resources>
